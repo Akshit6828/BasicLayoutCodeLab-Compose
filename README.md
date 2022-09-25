@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BasicLayoutCodeLab-Compose
-This repo contains the codebase for codelab basic layout which is made using compose.
-=======
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
